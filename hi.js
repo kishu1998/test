@@ -1,5 +1,3 @@
 <script>
-    <div>kishor patil fhrt
-        
-        ydu</div>
+    <h1>htrui</h1>
 </script>
